@@ -35,12 +35,15 @@ Minha experiência profissional em manutenção técnica contribuiu para desenvo
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IagoBoracini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Iago Boracini" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoBoracini&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas por Iago Boracini" />
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=IagoBoracini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IagoBoracini&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
 </div>
+
 
 ---
 
